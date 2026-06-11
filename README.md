@@ -1,117 +1,83 @@
-# 📌 Personal Introduction Program
+
+# Personal Introduction Program 🎉
+
+## 📌 Project Overview
+
+This is a simple Python program that takes user input such as name, age, hobby, city, and favorite food, and displays a formatted personal introduction.
 
 ---
 
-## 🧾 Project Overview
+## 🎯 Objectives
 
-This project is a simple Python-based application that collects user information such as name, age, and hobby, and displays a personalized welcome message using f-strings.
-
-### 🎯 Objectives
-
-* Learn basic Python syntax
-* Understand user input handling
-* Use f-strings for formatting output
-* Practice simple program structure
+* Practice Python basics (input/output)
+* Improve formatting and user interaction
+* Learn GitHub project structure
 
 ---
 
 ## ⚙️ Setup Instructions
 
-### Step 1: Install Python
+1. Install Python (if not installed)
+2. Clone the repository:
 
-Download and install Python from the official website.
+   ```
+   git clone https://github.com/your-username/python-intro-task
+   ```
+3. Run the program:
 
-### Step 2: Clone Repository
-
-```
-git clone https://github.com/your-username/python-intro-task.git
-```
-
-### Step 3: Navigate to Folder
-
-```
-cd python-intro-task
-```
-
-### Step 4: Run Program
-
-```
-python personal_intro.py
-```
+   ```
+   python personal_intro.py
+   ```
 
 ---
 
 ## 📂 Code Structure
 
 ```
-python-intro-task/
-│
-├── personal_intro.py   # Main Python program
-├── README.md          # Documentation file
-├── requirements.txt   # Dependencies (none required)
-└── screenshot.png     # Output screenshot
+project-folder/
+│── personal_intro.py
+│── README.md
+│── requirements.txt
+│── screenshot.png
 ```
 
 ---
 
-## 🖥️ Visual Documentation
+## 🖼️ Visual Documentation
 
-The output of the program is shown in the screenshot below:
-
-![Output](screenshot.png)
+Add a screenshot of your program output in `screenshot.png`
 
 ---
 
-## 🔍 Technical Details
+## 🧠 Technical Details
 
-### Concepts Used:
-
-* **User Input**: `input()` function to collect data
-* **f-Strings**: For formatted output display
-* **Basic Python Syntax**
-
-### Logic Flow:
-
-1. Take input from user
-2. Store values in variables
-3. Display formatted message using f-string
+* Uses basic Python input/output functions
+* String formatting using f-strings
+* Simple and clean structure for beginners
 
 ---
 
 ## 🧪 Testing Evidence
 
-### Test Case 1:
+Tested with different inputs:
 
-**Input:**
+* Name: Lokesh Rawat
+* Age: 26
+* Hobby:Football
 
-```
-Name: Alex  
-Age: 21  
-Hobby: Coding  
-```
-
-**Output:**
-
-```
-🎉 Welcome Alex! 🎉
-You are 21 years old and love Coding.
-```
+Output displays correct formatted introduction.
 
 ---
 
-## 📘 What I Learned
+## 📚 What I Learned
 
-* How to write basic Python programs
-* How to take input from users
-* How to format output using f-strings
-* How to structure a project for GitHub
-* Importance of documentation and clean code
-
----
-
-## 👨‍💻 Author
-
-Lokesh Rawat
+* Taking input from users
+* Printing formatted output
+* Writing clean and readable Python code
+* Using GitHub for project submission
 
 ---
 
+## 🚀 Author
+
+Alex
