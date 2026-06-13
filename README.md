@@ -33,7 +33,7 @@ python intro.py
 
 ## 📸 Output Screenshot
 
-![Program Output](Screenshort.png)
+![Program Output](Screenshot.png)
 
 ---
 
