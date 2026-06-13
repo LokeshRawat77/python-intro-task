@@ -55,7 +55,7 @@ Food: Pizza
 Hello Lokesh!
 You are 26 years old.
 You love Football.
-You live in Delhi.
+You live in Uttarakhand.
 Your favorite food is Pizza.
 Nice to meet you!
 ```
